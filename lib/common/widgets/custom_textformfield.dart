@@ -19,14 +19,15 @@ class CustomTextFormField extends StatelessWidget {
         border: const OutlineInputBorder(
           borderSide: BorderSide(
             color: Colors.black38,
-        ),),
+          ),
+        ),
         enabledBorder: const OutlineInputBorder(
           borderSide: BorderSide(
             color: Colors.black38,
-        ),),
+          ),
+        ),
       ),
-      validator: (val){
-      },
+      validator: (val) {},
     );
   }
 }
