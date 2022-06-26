@@ -3,6 +3,8 @@
         "appbar",
         "ARGB",
         "RGBO",
+        "signin",
+        "signup",
         "wireframe"
     ]
 }
